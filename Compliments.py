@@ -2,7 +2,7 @@
 # Описание: Комплименты для вашей второй половинки
 # Автор: @kelovo
 # Команды: cg, cgshe, cgmix, cgpretty
-# meta разработчик: @kelovo
+# meta developer: @kelovo
 
 __version__ = (1, 0, 0)
 

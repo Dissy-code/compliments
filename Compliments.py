@@ -1,8 +1,9 @@
 # Название: Комплименты
 # Описание: Комплименты для вашей второй половинки
-# Автор: @kelovo
 # Команды: cg, cgshe, cgmix, cgpretty
 # meta developer: @kelovo
+# scope: heroku_only
+# version: 1.0.0
 
 __version__ = (1, 0, 0)
 
